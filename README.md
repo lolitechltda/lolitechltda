@@ -32,6 +32,5 @@ This is a public site of Lolitech Ltda Company <img src="https://media.giphy.com
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-This WebSite is owned and operated by Viviani de Souza Marcolino
 ---
-
+This WebSite is owned and operated by Viviani de Souza Marcolino
