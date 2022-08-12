@@ -33,4 +33,4 @@ This is a public site of Lolitech Ltda Company <img src="https://media.giphy.com
 </p>
 
 ---
-This WebSite is owned and operated by Viviani de Souza Marcolino
+This WebSite is owned and operated by Lolitech Ltda
